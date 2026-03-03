@@ -3,7 +3,7 @@ eng,MOR,MyCountry,0,Country,MOR,,TRUE
 fra,MOR,Maroc,0,Pays,MOR,,TRUE
 eng,NTH,North,1,Direction,MOR/NTH,MOR,TRUE
 fra,NTH,Nord,1,Direction,MOR/NTH,MOR,TRUE
-eng,RSK,RabatSaleKenitra,2,Region,MOR/NTH/RSK,NTH,TRUE
+eng,RSK,Barnaby1,2,Region,MOR/NTH/RSK,NTH,TRUE
 fra,RSK,Rabat-Salé-Kénitra,2,Région,MOR/NTH/RSK,NTH,TRUE
 eng,RBT,Rabat,3,Province,MOR/NTH/RSK/RBT,RSK,TRUE
 fra,RBT,Rabat,3,Province,MOR/NTH/RSK/RBT,RSK,TRUE

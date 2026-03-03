@@ -2,7 +2,7 @@ lang_code,code,name,hierarchy_level,hierarchy_level_name,parent_loc_code,is_acti
 eng,MOR,MyCountry,0,Country,,TRUE
 ara,MOR,مايكونتري,0,دولة,,TRUE
 fra,MOR,Maroc,0,Pays,,TRUE
-eng,RSK,Rabat Sale Kenitra,1,Region,MOR,TRUE
+eng,RSK,Barnaby1,1,Region,MOR,TRUE
 ara,RSK,الرباط سلا القنيطرة,1,المناطق,MOR,TRUE
 fra,RSK,Rabat-Salé-Kénitra,1,Région,MOR,TRUE
 eng,KTA,Kenitra,2,Province,RSK,TRUE
@@ -242,7 +242,7 @@ tam,10114,10114,5,குறியீடு,BNMR,TRUE
 spa,MADI,Madinat Al Irfane,4,Zona,RAB,TRUE
 spa,10114,10114,5, Código Postal,BNMR,TRUE
 spa,MOR,MyPaís,0,País,,TRUE
-spa,RSK,Rabat Sale Kenitra,1,Región,MOR,TRUE
+spa,RSK,Barnaby1,1,Región,MOR,TRUE
 spa,KTA,Kenitra,2,Provincia,RSK,TRUE
 spa,KNT,Kenitra,3,Ciudad,KTA,TRUE
 spa,BNMR,Ben Mansour,4,Zona,KNT,TRUE
